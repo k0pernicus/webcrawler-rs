@@ -1,0 +1,10 @@
+[package]
+name = "webcrawler-rs"
+version = "0.1.0"
+authors = ["k0pernicus <antonin.carette@gmail.com>"]
+
+[dependencies]
+argparse = "0.2.1"
+curl = "0.2.17"
+regex = "0.1"
+RustyXML = "0.1.1"
